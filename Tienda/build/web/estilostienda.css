@@ -1,0 +1,30 @@
+body{
+    
+    background: #f2f4f4;
+}
+
+.navegacion{
+    
+background: #fff;    
+    
+}
+
+
+.navegacion ul{    
+    
+    list-style: none;    
+}
+
+.menu li{    
+    display: inline-block;
+    
+}
+
+.menu > li > a{
+    
+    padding: 15px 20px;
+    color: #353535;
+    font-family: 'Open Sans';
+    text-decoration: none;
+    
+}
